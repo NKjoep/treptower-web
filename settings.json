@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    ".DS_Store": "explorerExcludedFiles",
+    "Thumbs.db": "explorerExcludedFiles",
+    "db.json": "explorerExcludedFiles",
+    "*.log": "explorerExcludedFiles",
+    "node_modules/": "explorerExcludedFiles",
+    "public/": "explorerExcludedFiles",
+    ".deploy*/": "explorerExcludedFiles",
+    ".vscode/settings*": "explorerExcludedFiles",
+    "**/.git": "explorerExcludedFiles",
+    "**/.DS_Store": "explorerExcludedFiles",
+    "**/node_modules": "explorerExcludedFiles",
+    "node_modules": "explorerExcludedFiles",
+    "**/bower_components": "explorerExcludedFiles",
+    "bower_components": "explorerExcludedFiles",
+    "**/*.ngfactory.ts": "explorerExcludedFiles",
+    "**/*.map": "explorerExcludedFiles",
+    "**/*.scss.ts": "explorerExcludedFiles",
+    "**/*.scss.shim.ts": "explorerExcludedFiles"
+  }
+}
