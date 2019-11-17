@@ -2,3 +2,9 @@ node_modules
 .DS_Store
 **/node_modules/
 newtreptow/themes/landscape
+Thumbs.db
+db.json
+*.log
+public/
+.deploy*/
+.vscode/settings*
