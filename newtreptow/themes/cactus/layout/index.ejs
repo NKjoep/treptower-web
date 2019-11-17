@@ -1,9 +1,3 @@
-<!--
-<pre>
-<%- JSON.stringify(Object.keys(page)) %>
-</pre>
--->
-
 <% if (config.description || theme.social_links) { %>
 <section id="about">
   <% if (config.description) { %>
@@ -32,6 +26,12 @@
       <% } %>
     </p>
   <% } %>
+</section>
+<% } %>
+
+<% if (theme.homepage_intro) { %>
+<section id="homepage">
+  <%- partial_page(theme.homepage_intro) %>
 </section>
 <% } %>
 
