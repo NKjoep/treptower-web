@@ -100,3 +100,5 @@ deploy:
   repo: git@github.com:NKjoep/treptower-web.git
   branch: gh-pages #published
   message: #leave this blank
+
+crawlers: 'noindex, nofollow'

@@ -44,7 +44,7 @@ Freizeitangebote, Spazierwege, Uferpromenade, Liege- und Spielwiesen, Bootsverle
 
 In den 1984 von der DDR-Regierung erbauten ehemaligen Transitshop für devisenbesitzende Berlinbesucher zog 1997 das Figurentheater Grashüpfer ein und erfreut seitdem Familien, Groß und Klein mit Puppentheater-, Bastel- und anderen Freizeitangeboten. _www.theater-grashuepfer.de_
 
-![image](/downloads/Luftbild-Web.jpg)
+![image](downloads/Luftbild-Web.jpg)
 
 ----
 

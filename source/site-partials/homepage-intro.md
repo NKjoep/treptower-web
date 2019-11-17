@@ -22,7 +22,7 @@ DAS WAR SCHON EIN SCHOCK!
 
 ## Einige lesenswerte <red>SPEKULATIONEN</red> um den Standort 2017: vom 5. bis 7.Januar 2017
 
-- [Bitte anklicken Meldung Berliner Abendblatt](/downloads/Abendblatt_7-01-17.pdf)
+- [Bitte anklicken Meldung Berliner Abendblatt](downloads/Abendblatt_7-01-17.pdf)
 - [Bitte anklicken Berliner Zeitung](http://www.berliner-zeitung.de/berlin/musik-festival-verwirrung-um-lollapalooza-veranstaltungsort-25482086)
 - [Bitte anklicken Morgenpost](https://www.morgenpost.de/brandenburg/article209166155/Lollapalooza-2017-koennte-in-Hoppegarten-stattfinden.html)
 - [Bitte anklicken Tagesspiegel](http://www.tagesspiegel.de/berlin/standortsuche-fuer-berliner-festival-lollapalooza-koennte-in-hoppegarten-stattfinden/19210666.html#!kalooga-20590/Hoppegarten)
@@ -31,13 +31,13 @@ DAS WAR SCHON EIN SCHOCK!
 
 ## Die Bürgerinitiative ist weiter wachsam!
 
-- [Bitte anklicken Erstes Fazit der Bürger](/downloads/Presse_Lollapalooza_Fazit.pdf)
+- [Bitte anklicken Erstes Fazit der Bürger](downloads/Presse_Lollapalooza_Fazit.pdf)
 
-- [Bitte anklicken Sannende Zaungeschichte von Claudia H.:](/downloads/Lollapalooza%20-%20Endfassung.pdf)
+- [Bitte anklicken Sannende Zaungeschichte von Claudia H.:](downloads/Lollapalooza%20-%20Endfassung.pdf)
 
-- [Bitte anklicken Eine weitere Zaumgeschichte von Brigitte T.](/downloads/Glosse%20Topfstaedt.pdf)
+- [Bitte anklicken Eine weitere Zaumgeschichte von Brigitte T.](downloads/Glosse%20Topfstaedt.pdf)
 
-- [Bitte anklicken Ode an Lolla von Karl N.](/downloads/Ode%20Lolla-A100-BER%20DinA5.pdf)
+- [Bitte anklicken Ode an Lolla von Karl N.](downloads/Ode%20Lolla-A100-BER%20DinA5.pdf)
 
 ## Allen ein friedliches glückliches 2017 !!!
 
@@ -83,7 +83,7 @@ Spenden-Konto der Bürgerinitiative:
 
 LEIDER - gute Anwälte kosten Geld!
 
-![protestantische Plakatwand](/downloads/Lolla-BER-19412.jpg)
+![protestantische Plakatwand](downloads/Lolla-BER-19412.jpg)
 
 
 ----
@@ -94,5 +94,5 @@ Warum werden unsere Stimmen von der Politik missachtet?
 
 [Unterschreiben Sie die Petition von Peter.W.: Hier geht es zur Petition](https://www.change.org/p/bezirksamt-treptow-k%C3%B6penick-von-berlin-kein-lollapalooza-im-treptower-park-in-berlin?recruiter)
 
-![petition intro](/downloads/Lieber_Paul.jpg)
-![Abgesperrt Lolla](/downloads/Abgesperrt-Lolla.jpg)
+![petition intro](downloads/Lieber_Paul.jpg)
+![Abgesperrt Lolla](downloads/Abgesperrt-Lolla.jpg)

@@ -24,12 +24,12 @@ Das sowjetische Ehrenmal ist gleichzeitig Gedenkstätte und Friedhof. Es ist Gra
 
 ----
 
-![image](/downloads/Foto-Ehrenmal.jpeg)
+![image](downloads/Foto-Ehrenmal.jpeg)
 
-![image](/downloads/Ehrenmal.jpg)
+![image](downloads/Ehrenmal.jpg)
 
 <full>
 
-![image](/downloads/Luftbild-5.jpg)
+![image](downloads/Luftbild-5.jpg)
 
 </full>
