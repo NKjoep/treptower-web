@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: Sigrid Schubert und E. Liebenau-Wallenberg
-language: de
+title: 'Treptower Park'
+subtitle: 'Treptower Park in Berlin, Naturschutz, Naherholung und Lebensqualitaet im Treptower Park'
+description: 'Der Treptower Park ist ein geschütztes Gartendenkmal von hoher Bedeutung, als Volkspark geplant und kostbar für die Naherholung der Berliner. Mitte des 19.Jahrhunderts wurde er für die prosperierende Großstadt konzipiert und errichtet. Heute wird er, außer von Anwohnerinnen und Anwohnern, vor allem von Bürgerinnen und Bürgern der Innenstadtbereiche Neukölln, Friedrichshain-Kreuzberg, Lichtenberg und Mitte genutzt.'
+keywords: 'Treptower Park in Berlin, L&auml;rm, Denkmal, Gartendenkmal, Wiese, gro&szlig;e Liegewiese, Stimmung, Naturschutz, Naherholung, Lebensqualitaet, Treptow, Pl&auml;nterwald, Wiesen, Baumgruppen, Flederm&auml;use, Nachtigallen, Nachtigall, seltene V&ouml;gel, Arena, Popkick, Natur, Event, Fussball, Weltmeisterschaft, S-Bahn, Treptow, Umweltschutz, Senat, Abgeordnete, Bezirksamt Treptow-K&ouml;penick'
+author: 'Sigrid Schubert und E. Liebenau-Wallenberg'
+language: 'de'
 timezone: 'Europe/Berlin'
 
 # URL

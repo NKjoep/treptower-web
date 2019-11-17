@@ -7,7 +7,8 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "start": "hexo server"
+    "start": "npm run clean && npm run build && hexo server",
+    "watch": "nodemon"
   },
   "hexo": {
     "version": "4.0.0"
@@ -22,5 +23,14 @@
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-renderer-marked": "^2.0.0",
     "hexo-server": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "nodemonConfig": {
+    "ignore": ["node_modules/*", "public/*"],
+    "delay": "500",
+    "ext": "yml,ejs,css,html,md,js",
+    "exec": "npm run build"
   }
 }
