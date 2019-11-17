@@ -3,7 +3,7 @@
 ##############################################################################
 
 ## gives the content to be shown as intro in the index
-homepage_intro: 'homepage/homepage-intro.md'
+homepage_intro: 'site-partials/homepage-intro.md'
 
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
@@ -18,9 +18,10 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  Impressum: /impressum/
+  "The Park": /the-park/
   Aktuelles: /archives/
   'Our Blog': https://treptowerpark.blogspot.com/
+  Impressum: /impressum/
 
 
 # Links to your social media accounts.

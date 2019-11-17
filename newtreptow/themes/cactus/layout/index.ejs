@@ -29,12 +29,6 @@
 </section>
 <% } %>
 
-<% if (theme.homepage_intro) { %>
-<section id="homepage">
-  <%- partial_page(theme.homepage_intro) %>
-</section>
-<% } %>
-
 <section id="writing">
   <span class="h1"><a href="<%- url_for("archives") %>"><%= __('index.articles') %></a></span>
   <% if (theme.tags_overview && site.tags.length) { %>
@@ -73,5 +67,11 @@
       </li>
     <% } %>
   </ul>
+</section>
+<% } %>
+
+<% if (theme.homepage_intro) { %>
+<section id="homepage">
+  <%- partial_page(theme.homepage_intro) %>
 </section>
 <% } %>

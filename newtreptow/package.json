@@ -34,7 +34,7 @@
       "public/*"
     ],
     "delay": "500",
-    "ext": "yml,ejs,css,html,md,js",
+    "ext": "yml,ejs,css,html,md,js,styl",
     "exec": "npm run build"
   }
 }

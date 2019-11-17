@@ -20,13 +20,13 @@ Die derzeitige Beplanzug bereitet den Boden für die später zu pflanzenden Rose
 
 Die Plastik "Upright" von Rene Graetz wurde 1995 aufgestellt und wird im Revierstützpunkt bis zur Wiederaufstellung nach der Rekostruktion des Rosengartens Teil 2 aufbewahrt.
 
-![Plastik "Upright" zur Zeit im Gartenstützpunkt untergebracht.](http://www.treptowerpark.de/Kultur/K-Plastik-Rosengarten-8.jpg)
+![Plastik "Upright" zur Zeit im Gartenstützpunkt untergebracht.](/downloads/K-Plastik-Rosengarten-8.jpg)
 _Plastik "Upright" zur Zeit im Gartenstützpunkt untergebracht._
 
-![Fotosmodell Nr 1 am 17.10.2010 die Platanenallee.](http://www.treptowerpark.de/Platanenallee/2010-10-Allee-Fotomodell-b.jpg)
+![Fotosmodell Nr 1 am 17.10.2010 die Platanenallee.](/downloads/2010-10-Allee-Fotomodell-b.jpg)
 
 _Fotosmodell Nr 1 am 17.10.2010 die Platanenallee._
 
-Im Karpfenteich sind Fische und Vögel durch die Folgen des staken Winters verendet.
+Im <red>Karpfenteich</red> sind Fische und Vögel durch die Folgen des staken Winters verendet.
 
-Ständig wachsende Probleme: Vermüllung und Vandalismus
+Ständig wachsende Probleme: <red>Vermüllung und Vandalismus</red>
