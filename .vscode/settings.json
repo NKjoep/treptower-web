@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "node_modules": "explorerExcludedFiles",
+    ".DS_Store": "explorerExcludedFiles",
+    "**/node_modules/": "explorerExcludedFiles",
+    "**/.git": "explorerExcludedFiles",
+    "**/.DS_Store": "explorerExcludedFiles",
+    "**/node_modules": "explorerExcludedFiles",
+    "**/bower_components": "explorerExcludedFiles",
+    "bower_components": "explorerExcludedFiles",
+    "**/*.ngfactory.ts": "explorerExcludedFiles",
+    "**/*.map": "explorerExcludedFiles",
+    "**/*.scss.ts": "explorerExcludedFiles",
+    "**/*.scss.shim.ts": "explorerExcludedFiles"
+  }
+}
